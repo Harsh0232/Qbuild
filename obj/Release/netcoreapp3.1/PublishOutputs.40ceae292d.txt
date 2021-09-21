@@ -1,0 +1,12 @@
+C:\Users\hphar\Desktop\Qbuild Runnable file\QBuild.exe
+C:\Users\hphar\Desktop\Qbuild Runnable file\QBuild.dll
+C:\Users\hphar\Desktop\Qbuild Runnable file\QBuild.deps.json
+C:\Users\hphar\Desktop\Qbuild Runnable file\QBuild.runtimeconfig.json
+C:\Users\hphar\Desktop\Qbuild Runnable file\QBuild.dll.config
+C:\Users\hphar\Desktop\Qbuild Runnable file\QBuild.pdb
+C:\Users\hphar\Desktop\Qbuild Runnable file\System.Data.SqlClient.dll
+C:\Users\hphar\Desktop\Qbuild Runnable file\runtimes\win-arm64\native\sni.dll
+C:\Users\hphar\Desktop\Qbuild Runnable file\runtimes\win-x64\native\sni.dll
+C:\Users\hphar\Desktop\Qbuild Runnable file\runtimes\win-x86\native\sni.dll
+C:\Users\hphar\Desktop\Qbuild Runnable file\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hphar\Desktop\Qbuild Runnable file\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,71 @@
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.exe
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.dll.config
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.deps.json
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.runtimeconfig.json
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.runtimeconfig.dev.json
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.pdb
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csprojAssemblyReference.cache
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.Form1.resources
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.GenerateResource.cache
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.AssemblyInfoInputs.cache
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.AssemblyInfo.cs
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.CoreCompileInputs.cache
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.CopyComplete
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.dll
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.pdb
+C:\Users\hphar\source\repos\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.genruntimeconfig.cache
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.exe
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.dll.config
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.deps.json
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.runtimeconfig.json
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.runtimeconfig.dev.json
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.pdb
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csprojAssemblyReference.cache
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.Form1.resources
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.GenerateResource.cache
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.AssemblyInfoInputs.cache
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.AssemblyInfo.cs
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.CoreCompileInputs.cache
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.CopyComplete
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.dll
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.pdb
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.genruntimeconfig.cache
+C:\Users\Enigma\Downloads\Compressed\QBuild- Source code\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.Properties.Resources.resources
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.exe
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.dll.config
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.deps.json
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.runtimeconfig.json
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.runtimeconfig.dev.json
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\QBuild.pdb
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csprojAssemblyReference.cache
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.Form1.resources
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.Properties.Resources.resources
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.GenerateResource.cache
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.AssemblyInfoInputs.cache
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.AssemblyInfo.cs
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.CoreCompileInputs.cache
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.csproj.CopyComplete
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.dll
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.pdb
+C:\Users\hphar\Desktop\QBuild\QBuild\QBuild\obj\Debug\netcoreapp3.1\QBuild.genruntimeconfig.cache
